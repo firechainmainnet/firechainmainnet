@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Guilherme Lima
 
-🎯 Arquiteto de sistemas Web2/Web3 • Full Stack desde 2003  
+🎯 Arquiteto de sistemas Web2/Web3 • Full Stack 
 🛠️ Rust • Node.js • Firebase • Blockchain • Segurança • CLI-driven Architecture
 
 ---
