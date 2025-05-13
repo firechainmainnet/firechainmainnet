@@ -1,55 +1,64 @@
-# 👋 Olá, eu sou Guilherme Lima
+# 👨‍💻 Guilherme Lima — Arquiteto Web3 & Full Stack Rust Engineer
 
 [![LinkedIn](https://img.shields.io/badge/-Guilherme%20Lima-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/guilhermelimadev-web3/)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-Stable-brightgreen)
-![Version](https://img.shields.io/badge/version-2.0.1-blue)
+![Version](https://img.shields.io/badge/version-2.0.2-orange)
+![PRs Welcome](https://img.shields.io/badge/contribuições-bem%20vindas-blueviolet)
 
 ---
 
-🎯 Arquiteto de sistemas Web2/Web3 • Full Stack  
-🛠️ Rust • Node.js • Firebase • Blockchain • Segurança • CLI-driven Architecture
+🎯 Arquiteto de sistemas Web2/Web3 com foco em segurança, performance e escalabilidade.  
+🛠️ Rust • Node.js • Firebase • Blockchain • CLI-driven Systems • Real-time Infra
+
+> Crio projetos que **tratam a segurança como pré-requisito**, não como patch.
 
 ---
 
-## 🚀 Stack principal
+## 🚀 Stack Principal
 
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
 ![JavaScript](https://img.shields.io/badge/JS-ES6-yellow?logo=javascript&logoColor=black&style=flat)
+![Criptografia](https://img.shields.io/badge/Crypto-AES--256%2BArgon2id-orange?style=flat)
+![Arquitetura CLI](https://img.shields.io/badge/CLI--Driven-Validated-blue?style=flat)
 
 ---
 
-## 🔥 Criador da FireChain
+## 🔥 Ecossistema FireChain
 
-> Um ecossistema que une segurança real com descentralização acessível.
+> Uma arquitetura moderna, real e 100% open-source.
 
-**Projetos em destaque:**
+### 🧱 [FireChain Wallet Backend (v2.0.2)](https://github.com/firechainmainnet/firechain-backend)
+✅ Backend modular com RTDB, antiflood, proteção contra duplicatas, derivação HD segura e logs inteligentes.
 
-- 🧠 [Fire-Wallet-CLI](https://github.com/firechainmainnet/Fire-Wallet-CLI)  
-  → Carteira de linha de comando com AES256 + Argon2id, multisig e derivação HD
-
-- 🧱 [FireChain Wallet Backend (v2.0.1)](https://github.com/firechainmainnet/2.0.1_FireChain-Blockchain)  
-  → Backend reativo que conecta o CLI à nuvem com derivação HD versionada
-
----
-
-## 🚧 Em construção
-
-🔁 Testes CLI em múltiplas redes  
-🧬 Backend multisig com compartilhamento de assinaturas  
-📈 Dashboard visual para carteiras derivadas  
-🔒 PDF de backup de `.wallet` com QR code (offline)
+### 🧠 [Fire-Wallet-CLI](https://github.com/firechainmainnet/Fire-Wallet-CLI)
+✅ CLI de carteira em Rust com suporte a:
+- Wallets HD com mnemônicos (12/24)
+- Exportação segura (`.wallet` com AES-256-GCM + Argon2id)
+- Multisig M-de-N com endereço determinístico
+- Assinatura e verificação via ECDSA
 
 ---
 
-## 📫 Conecte comigo
+## 🚧 Em Construção (próximos lançamentos)
+
+- 📊 Dashboard visual com histórico HD derivado
+- 🔐 Assinatura multisig colaborativa com QR Code
+- 📤 Exportação e backup de `.wallet` offline (PDF + QR)
+- 🧪 Testes de integração CLI + RTDB + bots programáveis
+
+---
+
+## 📫 Vamos conversar?
 
 🌐 [firecoiners.web.app](https://firecoiners.web.app)  
 🔗 [LinkedIn – Guilherme Lima](https://www.linkedin.com/in/guilhermelimadev-web3/)
 
+📩 **Aberto para contribuições técnicas, auditoria de segurança, integrações ou mentorship.**
+
 ---
 
-> “Crio estruturas que tratam a segurança como primeira linguagem.  
-> Se você também constrói com propósito, você está no lugar certo.”
+> “Segurança não é um detalhe — é o ponto de partida.”  
+> Se você também constrói com propósito, está no lugar certo.
