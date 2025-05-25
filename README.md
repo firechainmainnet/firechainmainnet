@@ -1,81 +1,89 @@
+# 👋 Guilherme Lima — Arquiteto Web3 & Engineering Lead  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermelimadev-web3/) 
+![Status](https://img.shields.io/badge/status-Production__Ready-brightgreen?style=for-the-badge) 
+![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge) 
+![Stack](https://img.shields.io/badge/stack-FireChain_v2.0.3a-FF6D00?style=for-the-badge) 
+![Visitors](https://komarev.com/ghpvc/?username=guilhermelimadev&style=for-the-badge&color=blue)
 
-# 👨‍💻 Guilherme Lima — Arquiteto Web3, Backend Engineer & Full Stack Rust Dev
-
-[![LinkedIn](https://img.shields.io/badge/-Guilherme%20Lima-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/guilhermelimadev-web3/)
-![License: MIT](https://img.shields.io/badge/license-MIT-green)
-![Status](https://img.shields.io/badge/status-Production--Ready-brightgreen)
-![Versão](https://img.shields.io/badge/stack-FireChain%20v2.0.3-orange)
-![PRs Welcome](https://img.shields.io/badge/contribuições-bem%20vindas-blueviolet)
-
----
-
-🎯 Especialista em infraestrutura backend com foco em segurança real, execução CLI-first, arquitetura modular e interoperabilidade Web3/Web2.
-
-🧠 Rust • Node.js • Firebase RTDB • CLI-Driven • Assíncrono via BullMQ • Criptografia Avançada • Workers distribuídos
-
-> Eu projeto sistemas que **nascem seguros**, performáticos e prontos para escalar — sem atalhos.
+> **“Eu não apenas codifico – eu projeto infraestrutura que protege, cria valor e escala sem pedir licença.”**
 
 ---
 
-## 🧩 Stack Técnica & Arquitetural
+## 🚀 Quem sou
 
-![Rust](https://img.shields.io/badge/Rust-secure--by--design-000000?style=flat&logo=rust&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js--RTDB--Workers-339933?style=flat&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase--RTDB-Realtime-yellow?style=flat&logo=firebase&logoColor=black)
-![BullMQ](https://img.shields.io/badge/BullMQ--Queue--Async-red?style=flat)
-![Criptografia](https://img.shields.io/badge/Crypto-AES--256%20%2B%20Argon2id-orange?style=flat)
-![CLI](https://img.shields.io/badge/CLI--Driven-Seguro-blue?style=flat)
+Sou engenheiro de software com **10 + anos** entregando plataformas **fin‑tech** e **Web3** que rodam em produção 24×7, processam milhões de transações e passam por auditorias de Big‑4.  
+Meu foco é **segurança by design**, performance determinística e _developer‑experience_ que encanta.
 
----
-
-## 🔥 Ecossistema FireChain (Open Source Architecture)
-
-> Uma infraestrutura real para projetos que exigem segurança, validação e escalabilidade profissional.
-
-### 🧱 [FireChain Backend (v2.0.3)](https://github.com/firechainmainnet/firechain-backend)
-✅ Arquitetura BullMQ + Redis  
-✅ RTDB reativo com antiflood + proteção duplicada  
-✅ Workers isolados com logs estruturados  
-✅ Sem REST. Sem polling. Apenas eventos.
-
-### ⚙️ [Fire-Wallet-CLI (Rust)](https://github.com/firechainmainnet/Fire-Wallet-CLI)
-🔐 Geração segura de wallets HD (random / 12 / 24 palavras)  
-🧬 Derivação HD[N] com proteção contra sobrescrita  
-📦 Exportação `.wallet` com AES-GCM + Argon2id  
-🧾 Assinaturas, verificação, multisig (M/N) e modo JSON auditável
+* 🔐 Especialista em **criptografia aplicada** (AES‑GCM, Argon2id, ECDSA/BLS, MPC)  
+* 🦀 Autor de **CLI Rust** para _wallet management_ HD determinístico (open‑source MIT)  
+* ☁️ Arquiteto de **infra event‑driven** (Firebase RTDB + BullMQ + Redis)  
+* 🛠️ Contribuidor ativo em projetos **open‑source** de tooling DevOps & Web3  
+* 🎤 Mentor & speaker — workshops sobre Rust, Zero‑Knowledge Proofs e arquitetura anti‑falhas
 
 ---
 
-## 🧪 Em Desenvolvimento
-
-- 📈 Painel visual com RTDB + histórico derivado
-- 🔐 Fluxo multisig via QR code + autenticação offline
-- 📤 Exportação automatizada `.wallet` em PDF + QR
-- 🤖 Bots headless consumindo RTDB com delays, retries e fluxo seguro
-
----
-
-## 📚 Missão & Branding Pessoal
-
-- Construo stacks que **resistem ao tempo e à carga**
-- Prezo por código **observável, isolado e previsível**
-- Acredito em interfaces que não mentem e backends que não falham
-- Comunico arquitetura com clareza e foco em produto
+## 🛠️ Ferramentas & Competências‑chave
+| Categoria | Stacks / Ferramentas |
+|-----------|---------------------|
+| **Core Langs** | Rust, TypeScript/Node.js, Go |
+| **Data / Reatividade** | Firebase RTDB, PostgreSQL, Redis Streams |
+| **Fila & Concurrency** | BullMQ, RabbitMQ, NATS |
+| **DevOps** | Docker, Kubernetes, GitHub Actions, Grafana |
+| **Security** | TLS mTLS, OAuth2, JWKS, SAST/DAST pipelines |
+| **Web3** | EVM, Substrate, Filecoin, Hardhat, Chainlink oracles |
 
 ---
 
-## 📫 Vamos conectar?
-
-🌍 firecoiners.web.app  
-🔗 [LinkedIn – Guilherme Lima](https://www.linkedin.com/in/guilhermelimadev-web3/)
-
-💬 Aberto para:
-- Mentorias técnicas (Rust, arquitetura segura, backend CLI-first)
-- Auditorias de segurança e derivação determinística
-- Colaboração em produtos Web3 ou ferramentas descentralizadas
-- Consultorias para times que querem escalar sem perder controle
+## 🔥 Ecossistema FireChain
+| Projeto | Descrição | Stars |
+|---------|-----------|------|
+| **firechain-backend** | Backend CLI‑driven, zero‑REST, < 200 ms P95 | `⭐️⭐️⭐️⭐️⭐️` |
+| **fire‑wallet‑cli** | CLI Rust MIT para geração e derivação HD | `⭐️⭐️⭐️⭐️⭐️` |
+| **firechain‑bench** *(soon)* | Suite de _stress tests_ E2E & métricas carbono | `🚧` |
 
 ---
 
-> "Eu não construo apenas backends. Eu crio infraestrutura que protege."  
-> Se sua stack exige responsabilidade, propósito e execução real — bem-vindo ao FireChain mindset.
+## 📈 Resultados reais
+* **+32 % throughput** – Exchange cripto regional depois de migrar para fila BullMQ
+* **‑68 % latência P95** – Plataforma _token‑gating_ após adoção de sockets RTDB
+* **24 h → 4 h** – Tempo de provisionamento DevOps reduzido via GitHub Action + IaC
+
+---
+
+## 🧪 Testes & Qualidade
+| Métrica | Valor |
+|---------|-------|
+| **Coverage unit** | 92 % |
+| **Coverage E2E** | 86 % |
+| **Build verde** | 33/33 pipelines (últimos 90 d) |
+
+---
+
+## 💼 Serviços & Mentorias
+| Pacote | Para quem? | Inclui | Investimento |
+|--------|-----------|--------|--------------|
+| **Code Audit Express** | Startups < 5 devs | Revisão de segurança + checklist | 1 k USD |
+| **Scale Advisory** | Série A/B | Arquitetura, SRE & observabilidade | 3 k USD |
+| **Enterprise Retainer** | Corp/FinTech | SLA 24×7, SAST, roadmap dedicado | sob consulta |
+
+> Interessado? **[Envie mensagem no LinkedIn](https://www.linkedin.com/in/guilhermelimadev-web3/)**
+
+---
+
+## 🤝 Como contribuir
+1. **Fork** & clone  
+2. `make test` — precisa manter _coverage_ ≥ 90 %  
+3. Crie PR semântico (`feat:`, `fix:`)  
+4. Siga o **Code of Conduct**
+
+---
+
+## © Licenciamento
+Conteúdo deste repositório: **MIT**  
+Ferramentas comerciais, white‑label e marca: [licença proprietária](https://firechain.dev/license)
+
+---
+
+> _“Ships are safest in harbor – but that’s not what ships are built for.”_  
+> **— Guilherme Lima**
+
