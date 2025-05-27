@@ -1,24 +1,33 @@
 # 👋 Guilherme Lima — Arquiteto de Infraestrutura Web3 & Criador da FireChain CLI
 
-
 <p align="center">
   <img src="https://github.com/firechainmainnet/firechainmainnet/blob/main/hero_ecosystem.png" alt="FireChain Ecosystem Banner" width="600px"/>
 </p>
 
+<p align="center"><i><b>Infraestrutura Web3 sob controle. Da CLI à produção, com soberania digital.</b></i></p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Rust-Lang-934c97?style=flat-square" />
-  <img src="https://img.shields.io/badge/Node.js-TypeScript-6cc24a?style=flat-square" />
-  <img src="https://img.shields.io/badge/FIRECHAIN_CLI-v0.1.1-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/SECURITY-Bug__Bounty__Active-F44336?style=flat-square" />
-  <img src="https://img.shields.io/badge/SLA-99.99%25-D32F2F?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tests-100%25__LLVM__E2E-4CAF50?style=flat-square" />
-  <img src="https://img.shields.io/badge/License-MIT__%2B__Comercial-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Bug__Bounty-Active-FIRE?style=flat-square&logo=verizon" />
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Rust-Lang-934c97?style=flat-square&logo=rust" />
+  <img src="https://img.shields.io/badge/Node.js-TypeScript-6cc24a?style=flat-square&logo=typescript" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/FIRECHAIN_CLI-v0.1.1-orange?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/License-MIT__%2B__Comercial-blue?style=flat-square&logo=bookstack" />
   <img src="https://img.shields.io/badge/Documentation-FireChain_CLI-blue?style=flat-square&logo=readthedocs" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/SECURITY-Bug__Bounty__Active-F44336?style=flat-square&logo=verizon" />
   <img src="https://img.shields.io/badge/Security-By__Design-critical?style=flat-square&logo=datadog" />
+  <img src="https://img.shields.io/badge/SLA-99.99%25-D32F2F?style=flat-square&logo=quantconnect" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Tests-100%25__LLVM__E2E-4CAF50?style=flat-square&logo=pytest" />
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/Contact-via__LinkedIn-0A66C2?style=flat-square&logo=linkedin" />
-</p>
+</div>
 
 ---
 
@@ -51,11 +60,11 @@ Sou engenheiro de software especializado em segurança, CLI e automação Web3. 
 
 ## 📚 Documentação
 
-- CLI: `--help` + Wiki
-- Backend: `README_DEV.md`
-- Testes: `README_TESTES_E2E.md`
-- Política de Segurança: `SECURITY.md`
-- Licenciamento: MIT + Comercial
+- CLI: `--help` + <a href="https://github.com/firechainmainnet/Fire-Wallet-CLI/wiki">Wiki</a>
+- Backend: <a href="https://github.com/firechainmainnet/FireChain-Backend/blob/main/README_DEV.md">README_DEV.md</a>
+- Testes: <a href="https://github.com/firechainmainnet/FireChain-Backend/blob/main/README_TESTES_E2E.md">README_TESTES_E2E.md</a>
+- Segurança: <a href="https://github.com/firechainmainnet/firechainmainnet/blob/main/SECURITY.md">SECURITY.md</a>
+- Licenciamento: <a href="#-licenciamento">MIT + Comercial</a>
 
 ---
 
@@ -95,12 +104,14 @@ Sou engenheiro de software especializado em segurança, CLI e automação Web3. 
 
 ## 🔐 Licenciamento
 
-- MIT restrito (estudo)
-- Comercial obrigatório para produção, branding, CLI embutida ou revenda
-- Proteção legal e contratual
+- 🔓 Código livre para estudo e pesquisa: **MIT restrito**
+- 🔒 Uso em produção, branding, CLI embutida ou revenda: **Licença Comercial obrigatória**
+- 🧾 Contratos formais e termos de uso inclusos
+- ⚖️ Proteção jurídica aplicada
 
 > _"FireChain é a fundação da nova soberania digital. Documentada, testada e pronta para produção."_  
 > — Guilherme Lima
+
 ---
 
 ## 📈 GitHub Widgets & Estatísticas
@@ -119,5 +130,5 @@ Sou engenheiro de software especializado em segurança, CLI e automação Web3. 
 </p>
 
 <p align="center">
-  
+  <b>🚀 Explore. Teste. Produza. A stack está pronta.</b>
 </p>
