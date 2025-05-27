@@ -1,89 +1,123 @@
-# 👋 Guilherme Lima — Arquiteto Web3 & Engineering Lead  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermelimadev-web3/) 
-![Status](https://img.shields.io/badge/status-Production__Ready-brightgreen?style=for-the-badge) 
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge) 
-![Stack](https://img.shields.io/badge/stack-FireChain_v2.0.3a-FF6D00?style=for-the-badge) 
-![Visitors](https://komarev.com/ghpvc/?username=guilhermelimadev&style=for-the-badge&color=blue)
+# 👋 Guilherme Lima — Arquiteto de Infraestrutura Web3 & Criador da FireChain CLI
 
-> **“Eu não apenas codifico – eu projeto infraestrutura que protege, cria valor e escala sem pedir licença.”**
 
----
+<p align="center">
+  <img src="https://github.com/firechainmainnet/firechainmainnet/blob/main/hero_ecosystem.png" alt="FireChain Ecosystem Banner" width="600px"/>
+</p>
 
-## 🚀 Quem sou
 
-Sou engenheiro de software com **10 + anos** entregando plataformas **fin‑tech** e **Web3** que rodam em produção 24×7, processam milhões de transações e passam por auditorias de Big‑4.  
-Meu foco é **segurança by design**, performance determinística e _developer‑experience_ que encanta.
-
-* 🔐 Especialista em **criptografia aplicada** (AES‑GCM, Argon2id, ECDSA/BLS, MPC)  
-* 🦀 Autor de **CLI Rust** para _wallet management_ HD determinístico (open‑source MIT)  
-* ☁️ Arquiteto de **infra event‑driven** (Firebase RTDB + BullMQ + Redis)  
-* 🛠️ Contribuidor ativo em projetos **open‑source** de tooling DevOps & Web3  
-* 🎤 Mentor & speaker — workshops sobre Rust, Zero‑Knowledge Proofs e arquitetura anti‑falhas
-
----
-
-## 🛠️ Ferramentas & Competências‑chave
-| Categoria | Stacks / Ferramentas |
-|-----------|---------------------|
-| **Core Langs** | Rust, TypeScript/Node.js, Go |
-| **Data / Reatividade** | Firebase RTDB, PostgreSQL, Redis Streams |
-| **Fila & Concurrency** | BullMQ, RabbitMQ, NATS |
-| **DevOps** | Docker, Kubernetes, GitHub Actions, Grafana |
-| **Security** | TLS mTLS, OAuth2, JWKS, SAST/DAST pipelines |
-| **Web3** | EVM, Substrate, Filecoin, Hardhat, Chainlink oracles |
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-Lang-934c97?style=flat-square" />
+  <img src="https://img.shields.io/badge/Node.js-TypeScript-6cc24a?style=flat-square" />
+  <img src="https://img.shields.io/badge/FIRECHAIN_CLI-v0.1.1-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/SECURITY-Bug__Bounty__Active-F44336?style=flat-square" />
+  <img src="https://img.shields.io/badge/SLA-99.99%25-D32F2F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tests-100%25__LLVM__E2E-4CAF50?style=flat-square" />
+  <img src="https://img.shields.io/badge/License-MIT__%2B__Comercial-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Bug__Bounty-Active-FIRE?style=flat-square&logo=verizon" />
+  <img src="https://img.shields.io/badge/Documentation-FireChain_CLI-blue?style=flat-square&logo=readthedocs" />
+  <img src="https://img.shields.io/badge/Security-By__Design-critical?style=flat-square&logo=datadog" />
+  <img src="https://img.shields.io/badge/Contact-via__LinkedIn-0A66C2?style=flat-square&logo=linkedin" />
+</p>
 
 ---
 
-## 🔥 Ecossistema FireChain
-| Projeto | Descrição | Stars |
-|---------|-----------|------|
-| **firechain-backend** | Backend CLI‑driven, zero‑REST, < 200 ms P95 | `⭐️⭐️⭐️⭐️⭐️` |
-| **fire‑wallet‑cli** | CLI Rust MIT para geração e derivação HD | `⭐️⭐️⭐️⭐️⭐️` |
-| **firechain‑bench** *(soon)* | Suite de _stress tests_ E2E & métricas carbono | `🚧` |
+## 🧬 Sobre mim
+
+Sou engenheiro de software especializado em segurança, CLI e automação Web3. Idealizador e criador da FireChain CLI — a stack que entrega soberania digital real com foco em infraestrutura modular, testes reais e arquitetura auditável.
 
 ---
 
-## 📈 Resultados reais
-* **+32 % throughput** – Exchange cripto regional depois de migrar para fila BullMQ
-* **‑68 % latência P95** – Plataforma _token‑gating_ após adoção de sockets RTDB
-* **24 h → 4 h** – Tempo de provisionamento DevOps reduzido via GitHub Action + IaC
+## 🔥 Stack FireChain — CLI & Backend
+
+- `fire-wallet-cli`: CLI HD segura, derivação multi-chain, fingerprint, export `.wallet`
+- `firechain-backend`: **API reativa** via RTDB (Firebase), sem REST. Ultra rápida, stateless e assíncrona.
+- `firechain-api-lite`: versão Lite da stack para bots/games Web3 (em RTDB também)
 
 ---
 
-## 🧪 Testes & Qualidade
-| Métrica | Valor |
-|---------|-------|
-| **Coverage unit** | 92 % |
-| **Coverage E2E** | 86 % |
-| **Build verde** | 33/33 pipelines (últimos 90 d) |
+## 📊 Métricas (v0.1.1)
+
+| Métrica CLI                   | Valor       |
+|------------------------------|-------------|
+| Derivação Multi-chain        | ~50ms       |
+| LLVM Coverage                | 100%        |
+| Testes E2E                   | ✅ Ativos   |
+| Fingerprint                  | Determinístico |
+| Dependências externas        | Zero        |
+| Exportação criptografada     | 🔜 Em teste |
 
 ---
 
-## 💼 Serviços & Mentorias
-| Pacote | Para quem? | Inclui | Investimento |
-|--------|-----------|--------|--------------|
-| **Code Audit Express** | Startups < 5 devs | Revisão de segurança + checklist | 1 k USD |
-| **Scale Advisory** | Série A/B | Arquitetura, SRE & observabilidade | 3 k USD |
-| **Enterprise Retainer** | Corp/FinTech | SLA 24×7, SAST, roadmap dedicado | sob consulta |
+## 📚 Documentação
 
-> Interessado? **[Envie mensagem no LinkedIn](https://www.linkedin.com/in/guilhermelimadev-web3/)**
-
----
-
-## 🤝 Como contribuir
-1. **Fork** & clone  
-2. `make test` — precisa manter _coverage_ ≥ 90 %  
-3. Crie PR semântico (`feat:`, `fix:`)  
-4. Siga o **Code of Conduct**
+- CLI: `--help` + Wiki
+- Backend: `README_DEV.md`
+- Testes: `README_TESTES_E2E.md`
+- Política de Segurança: `SECURITY.md`
+- Licenciamento: MIT + Comercial
 
 ---
 
-## © Licenciamento
-Conteúdo deste repositório: **MIT**  
-Ferramentas comerciais, white‑label e marca: [licença proprietária](https://firechain.dev/license)
+## 🌐 Ecossistema FireChain
+
+| Projeto                | Status         | Link                                                                 | Descrição Técnica                                        |
+|------------------------|----------------|----------------------------------------------------------------------|----------------------------------------------------------|
+| fire-wallet-cli        | ✅ v0.1.1       | 🔗 [CLI](https://github.com/firechainmainnet/Fire-Wallet-CLI)       | CLI HD segura com exportação criptografada              |
+| firechain-backend      | ✅ v2.0.3a      | 🔗 [Backend](https://github.com/firechainmainnet/FireChain-Backend) | API reativa Firebase RTDB, zero REST                    |
+| firechain-api-lite     | 🔜 Roteirizado  | 🔗 (em breve)                                                        | Versão lite para bots e games Web3 via RTDB             |
+| firechain-bench        | 🚧 Planning     | 🔗 (em breve)                                                        | Stress CLI + métricas carbono                           |
+| firechain-vault        | 🔐 Planejado    | 🔗 (em breve)                                                        | Armazenamento `.wallet` seguro                          |
+| firechain-explorer     | 🔭 P&D          | 🔗 (em breve)                                                        | Visual CLI para derivação HD auditável                  |
+| firechain-docs         | 🧪 Interno      | 🔗 Wiki + READMEs                                                    | Documentação CLI + backend                              |
+| firechain-docker       | 🔜 Em estrutura | 🔗 (em breve)                                                        | Contêiner oficial da stack                              |
+| firechain-devops       | 🔜 Roteiro      | 🔗 (em breve)                                                        | CI/CD completo com coverage + teardown                  |
+| firechain-oracles      | 🔁 Prototipado  | 🔗 (em breve)                                                        | Validadores externos e feeds Web3                       |
+| firechain-plugins      | 🔌 Em design    | 🔗 (em breve)                                                        | Export, validação, assinatura customizável              |
+| firechain-indexer      | ✅ v0.0.1       | 🔗 (em breve)                                                        | Indexador UTXO em Rust conectado ao fire-wallet-cli     |
 
 ---
 
-> _“Ships are safest in harbor – but that’s not what ships are built for.”_  
-> **— Guilherme Lima**
+## 💼 Mentorias & Contratos
 
+| Plano              | Público-alvo        | Benefícios                                  | Valor        |
+|--------------------|---------------------|---------------------------------------------|--------------|
+| Dev Solo           | Freelancers          | CLI + export `.wallet`                      | US$ 190/ano  |
+| Curso Mentorado    | Alunos premium       | Acesso à stack + aula + mentoria            | US$ 990      |
+| Starter            | Startups & MVPs      | Produção liberada, branding incluído        | US$ 990/ano  |
+| Scale              | Fintechs & Jogos     | Logs, SLA 72h, estrutura multisig           | US$ 2.900/ano|
+| Enterprise         | Exchanges / Gov      | SLA 99.99%, auditoria, integração privada   | sob consulta |
+
+📅 Próxima mentoria: **16/06/2025**  
+📩 Contato via [LinkedIn](https://www.linkedin.com/in/firechainmainnet-web3/)
+
+---
+
+## 🔐 Licenciamento
+
+- MIT restrito (estudo)
+- Comercial obrigatório para produção, branding, CLI embutida ou revenda
+- Proteção legal e contratual
+
+> _"FireChain é a fundação da nova soberania digital. Documentada, testada e pronta para produção."_  
+> — Guilherme Lima
+---
+
+## 📈 GitHub Widgets & Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=firechainmainnet&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firechainmainnet&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firechainmainnet&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=firechainmainnet&theme=onedark&column=4&margin-w=10&margin-h=10" />
+</p>
+
+<p align="center">
+  
+</p>
