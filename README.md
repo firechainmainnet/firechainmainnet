@@ -72,7 +72,7 @@ Sou engenheiro de software especializado em segurança, CLI e automação Web3. 
 
 | Projeto                | Status         | Link                                                                 | Descrição Técnica                                        |
 |------------------------|----------------|----------------------------------------------------------------------|----------------------------------------------------------|
-| fire-wallet-cli        | ✅ v0.1.1       | 🔗 [CLI](https://github.com/firechainmainnet/Fire-Wallet-CLI)       | CLI HD segura com exportação criptografada              |
+| fire-wallet-cli        | ✅ v0.1.2       | 🔗 [CLI](https://github.com/firechainmainnet/Fire-Wallet-CLI)       | CLI HD segura com exportação criptografada              |
 | firechain-backend      | ✅ v2.0.3a      | 🔗 [Backend](https://github.com/firechainmainnet/FireChain-Backend) | API reativa Firebase RTDB, zero REST                    |
 | firechain-api-lite     | 🔜 Roteirizado  | 🔗 (em breve)                                                        | Versão lite para bots e games Web3 via RTDB             |
 | firechain-bench        | 🚧 Planning     | 🔗 (em breve)                                                        | Stress CLI + métricas carbono                           |
