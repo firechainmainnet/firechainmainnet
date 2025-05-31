@@ -16,14 +16,6 @@
   <img src="https://img.shields.io/badge/Firebase-RTDB%20%7C%20Auth-FFCA28?style=flat-square&logo=firebase" />
 </div>
 <div align="center">
-  <!-- Frontend stack -->
-  <img src="https://img.shields.io/badge/React-UI%20Framework-61DAFB?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Vite-Bundler-646CFF?style=flat-square&logo=vite" />
-  <img src="https://img.shields.io/badge/TailwindCSS-Design-38B2AC?style=flat-square&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/TypeScript-TS-blue?style=flat-square&logo=typescript" />
-  <img src="https://img.shields.io/badge/HTML-Markup-E34F26?style=flat-square&logo=html5" />
-</div>
-<div align="center">
   <!-- Projeto FireChain -->
   <img src="https://img.shields.io/badge/FIRECHAIN_CLI-v0.1.4-orange?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/License-MIT__%2B__Comercial-blue?style=flat-square&logo=bookstack" />
